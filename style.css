@@ -1,0 +1,7 @@
+:root {
+    --ok-zoomer-level: 100%;
+}
+
+#tree-td, #tabs, #misc-td, #preferences-editor {
+    zoom: var(--ok-zoomer-level);
+}
